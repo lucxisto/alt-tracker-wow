@@ -42,3 +42,7 @@ footer{
     font-style: italic;
     
 }
+input.showchar{
+    display: block;
+    margin: 10px;
+}
