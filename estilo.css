@@ -1,0 +1,44 @@
+body{
+    background: rgb(3, 10, 14);
+    font: 100% Friz Quadrata;
+    color: rgb(245, 188, 0);
+}
+header{
+    text-align: center;
+}
+h1{
+    font-size: 45px;
+    display: inline-block;
+    vertical-align: 7px;
+}
+
+section{
+    background: rgb(255, 255, 255);
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, .616);
+}
+div{
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+p{
+    text-align: left;
+}
+input,select{
+    display: block;
+}
+#selfac{
+    width: 100px;
+}
+#selectRaca{
+    width: 165px;
+}
+footer{
+    color:rgb(255, 255, 255);
+    text-align: center;
+    font-style: italic;
+    
+}
